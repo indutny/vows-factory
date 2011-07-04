@@ -1,0 +1,8 @@
+{
+  "name": "vows-factory",
+  "version": "0.1.0",
+  "author": "Fedor Indutny <fedor.indutny@gmail.com>",
+  "dependencies": {
+    "vows": ">= 0.5.8"
+  }
+}
